@@ -17,6 +17,7 @@
 
 ## Features
 
+- [x] 2GB+ File Now Support
 - [x] Url Shortener
 - [x] Custom Welcome Message
 - [x] Custom Force Sub Message 
@@ -59,7 +60,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=VGFtaWxncmFtL0F1dG9Nb3ZpZXNTZW5kZXJWMSBtYWlu">
+<a href="https://telegram.dog/XTZ_HerokuBot?start=VGFtaWxncmFtL0F1dG9Nb3ZpZXNTZW5kZXJWMiBtYXN0ZXI">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
