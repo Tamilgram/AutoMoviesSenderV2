@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=yellow)](https://github.com/Tamilgram/AutoMoviesSenderV1/stargazers)
-[![Forks](https://img.shields.io/github/forks/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=orange)](https://github.com/Tamilgram/AutoMoviesSenderV1/fork)
-[![Size](https://img.shields.io/github/repo-size/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=green)](https://github.com/Tamilgram/AutoMoviesSenderV1/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Tamilgram/AutoMoviesSenderV1)   
-[![Contributors](https://img.shields.io/github/contributors/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=green)](https://github.com/Tamilgram/AutoMoviesSenderV1/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Tamilgram/AutoMoviesSenderV1/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/Tamilgram/AutoMoviesSenderV1)
+[![Stars](https://img.shields.io/github/stars/Tamilgram/AutoMoviesSenderV2?style=flat-square&color=yellow)](https://github.com/Tamilgram/AutoMoviesSenderV2/stargazers)
+[![Forks](https://img.shields.io/github/forks/Tamilgram/AutoMoviesSenderV2?style=flat-square&color=orange)](https://github.com/Tamilgram/AutoMoviesSenderV2/fork)
+[![Size](https://img.shields.io/github/repo-size/Tamilgram/AutoMoviesSenderV2?style=flat-square&color=green)](https://github.com/Tamilgram/AutoMoviesSenderV2/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Tamilgram/AutoMoviesSenderV2)   
+[![Contributors](https://img.shields.io/github/contributors/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=green)](https://github.com/Tamilgram/AutoMoviesSenderV2/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Tamilgram/AutoMoviesSenderV2/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/Tamilgram/AutoMoviesSenderV2)
 
 
 ## Features
