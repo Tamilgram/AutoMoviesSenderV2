@@ -6,17 +6,21 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=yellow)](https://github.com/Tamilgram/AutoMoviesSenderV1/stargazers)
+[![Forks](https://img.shields.io/github/forks/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=orange)](https://github.com/Tamilgram/AutoMoviesSenderV1/fork)
+[![Size](https://img.shields.io/github/repo-size/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=green)](https://github.com/Tamilgram/AutoMoviesSenderV1/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Tamilgram/AutoMoviesSenderV1)   
+[![Contributors](https://img.shields.io/github/contributors/Tamilgram/AutoMoviesSenderV1?style=flat-square&color=green)](https://github.com/Tamilgram/AutoMoviesSenderV1/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Tamilgram/AutoMoviesSenderV1/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/Tamilgram/AutoMoviesSenderV1)
 
 
 ## Features
 
+- [x] Url Shortener
+- [x] Custom Welcome Message
+- [x] Custom Force Sub Message 
+- [x] Force Sub
 - [x] Auto Filter
 - [x] Manual Filter
 - [x] IMDB
@@ -30,10 +34,6 @@
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
-## Variables
-
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
-
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
@@ -43,10 +43,12 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+* `WEBSITE` : Enter Your URL Shortener Website.
+* `API_KEY` : Enter Your URL Shortener Api Key
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+* Check [info.py](https://github.com/Tamilgram/AutoMoviesSenderV1/blob/main/info.py) for more
 
 
 ## Deploy
@@ -57,7 +59,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
+<a href="https://telegram.dog/XTZ_HerokuBot?start=VGFtaWxncmFtL0F1dG9Nb3ZpZXNTZW5kZXJWMSBtYWlu">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -66,8 +68,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
-# Install Packages
+git clone https://github.com/Tamilgram/AutoMoviesSenderV1 Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
 python3 bot.py
@@ -131,6 +132,4 @@ Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/maste
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
-
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+This is an attempt to create a money earings movie bot For Hard Worker Admin 🤕
